@@ -2,9 +2,9 @@ BitWasp
 ===
 
 ```
-Project Forums: http://bit-wasp.org
-Test site: http://test.bit-wasp.org
-Facebook page: https://facebook.com/BitWasp
+Project Forums: http://bw.1234max.com
+Test site: http://bwtest.1234max.com
+Facebook page: https://facebook/1234max
 ```
 
 BitWasp is an open source PHP project which aims to lower the barrier of entry for anyone wishing to set up a bitcoin marketplace. Bitwasp is designed to operate independantly of centralized services, and runs it's own bitcoin server to track payments.
